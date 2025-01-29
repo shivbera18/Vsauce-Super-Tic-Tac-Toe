@@ -31,7 +31,7 @@ To set up Super Tic-Tac-Toe on your local machine
 **Clone the repository** to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/super_tictactoe.git
+git clone https://github.com/shivbera18/super_tictactoe.git
 ```
 
 **Navigate to the project directory**:
@@ -46,6 +46,3 @@ cd super_tictactoe
 python main.py
 ```
 
-## License
-
-MIT License
